@@ -46,8 +46,15 @@ Machine learning:
 
 ## 1 - Regression model
 
-![Figure_1](/image/Figure_1.png)
+![Figure_1](/figure/f1.png)
 
 ## 2 - NLP model
 
+![Figure_2](/figure/f2.png)
+![Figure_3](/figure/f3.png)
+
 ## 3 - Image Classifier
+
+![Figure_4](/figure/f4.png)
+![Figure_5](/figure/f5.png)
+![Figure_6](/figure/f6.png)

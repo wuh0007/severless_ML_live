@@ -1,7 +1,5 @@
 # Python based Serverless “Machine Learning Live”
-• Implemented a serverless REST API with Django, JQuery, Bootstrap, AWS Lambda and DynamoDB, for a live showcase of machine learning models.
-
-• Developed the Ajax based frontend with JQuery, Bootstrap and MTC backend with Django and AWS DynamoDB.
+• Implemented a serverless REST API with Python, Javascript, JQuery, Bootstrap, AWS Lambda, for a live showcase of machine learning models. 
 
 • Automated the application by deploying scikit-learn Regression Model, spaCy NLP Visualizer, Keras ResNet-50 Classifier to the AWS Lambda.
 
@@ -9,21 +7,17 @@
 
 Front End:
 
-1.**React.js**
+1.**JQuery**
 
-2.**Redux**   
+2.**Bootstrap**   
 
-3.**Webpack**
-
-4.**Javascript**
+3.**Javascript**
 
 Back End:
 
 1.**Python**
 
-2.**Django**   
-
-3.**AWS Lambda and DynamoDB**
+2.**AWS Lambda**
 
 Machine learning: 
 
@@ -41,8 +35,6 @@ Machine learning:
 - Tensorflow > 1.0  
 - Scikit-learn
 - AWS
-- Django > 2.0
-- React > 15.0
 
 ## 1 - Regression model
 

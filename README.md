@@ -1,5 +1,5 @@
 # Python based Serverless “Machine Learning Live”
-• Implemented a serverless REST API with Python, Javascript, JQuery, Bootstrap, AWS Lambda, for a live showcase of machine learning models. 
+• Implemented a serverless API with Python, Javascript, JQuery, Bootstrap, AWS Lambda, for a live showcase of machine learning models. 
 
 • Automated the application by deploying scikit-learn Regression Model, spaCy NLP Visualizer, Keras ResNet-50 Classifier to the AWS Lambda.
 
